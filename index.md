@@ -62,9 +62,10 @@
               ⭐⭐⭐⭐⭐
             </td>
           </tr>
+       </td>
     </tr>
   </table>
-  </td>
+
   <td>
     <table>
       <tr>
