@@ -62,10 +62,9 @@
               ⭐⭐⭐⭐⭐
             </td>
           </tr>
-       </td>
     </tr>
   </table>
-
+  </td>
   <td>
     <table>
       <tr>
@@ -87,12 +86,7 @@
     </table>
   </td>
   </tr>
-
-
-  </table>
-
-
-
+</table>
 
 
   <hr>
@@ -100,5 +94,4 @@
   <br>
   <a href="ContactMe.html">Contact Me</a>
 </body>
-
 </html>
